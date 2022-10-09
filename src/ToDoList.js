@@ -1,6 +1,6 @@
 import React from 'react';
 import './ToDoList.css'
-import {FontAwesomeIcon, fontAwesomeIcon} from "@fortawesome/react-fontawesome"
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 
 function TodoList(props){
     const todo = props.todo;
